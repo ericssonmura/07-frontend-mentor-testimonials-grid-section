@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/ericssonmura/07-frontend-mentor-testimonials-grid-section/)
-- Live Site URL: (https://github.com/ericssonmura/07-frontend-mentor-testimonials-grid-section/)
+- Live Site URL: (https://ericssonmura.github.io/07-frontend-mentor-testimonials-grid-section/)
 
 
 ## My process
